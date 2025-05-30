@@ -186,7 +186,7 @@
             userSelect: "text"
         },
         innerHTML: "By Dp2o",
-        onclick: () => window.open("https://github.com/DannyDan0167/Blooket-Cheats-Plus", "_blank").focus()
+        onclick: () => window.open("https://github.com/Dp2o/SchoolHacks", "_blank").focus()
     }), $ = l("div", {
         id: "controlButtons",
         style: {
