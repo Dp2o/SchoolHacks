@@ -217,19 +217,19 @@
             width: "55px",
             fontFamily: "Nunito",
             color: "white",
-            backgroundColor: "#00a0ff",
+            backgroundColor: "black",
             border: "none",
             fontSize: "2rem",
             cursor: "move"
         },
-        innerHTML: "✥"
+        innerHTML: "↔"
     }), l("button", {
         style: {
             height: "55px",
             width: "55px",
             fontFamily: "Nunito",
             color: "white",
-            backgroundColor: "grey",
+            backgroundColor: "black",
             border: "none",
             fontSize: "2rem",
             fontWeight: "bolder",
@@ -249,7 +249,7 @@
             width: "55px",
             fontFamily: "Nunito",
             color: "white",
-            backgroundColor: "red",
+            backgroundColor: "black",
             border: "none",
             fontSize: "2rem",
             fontWeight: "bolder",
